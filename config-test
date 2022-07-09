@@ -1,0 +1,3 @@
+cluster=redis.redis-cluster
+cluster=redis1.redis-cluster
+single=redis.redis-single
